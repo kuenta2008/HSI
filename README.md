@@ -1,2 +1,2 @@
 # HSI
-web de trabajo de clase basurilla
+web de trabajo de clase
